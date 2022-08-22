@@ -1,0 +1,1 @@
+print("Hola, soy Leonardo\nEstoy empezando el curso de python\nEspero aprender mucho")
